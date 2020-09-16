@@ -1,4 +1,5 @@
 # _Siarhei Khalimon_
+![Profile img](https://raw.githubusercontent.com/Rorshah22/rsschool-cv/gh-pages/me.jpg)
 
 ## **Contacts**
 
