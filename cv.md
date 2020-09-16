@@ -1,10 +1,14 @@
 # _Siarhei Khalimon_
 
 ## **Contacts**
+
  - **Tel.:** +375-33-686-51-71
  - **_email:_** hulk145@gmail.com
+ - **Vkontakte** https://vk.com/khalimonker
+ - **Telegram** https://t.me/Rorshah2
 
-## **About me** 
+
+### **About me** 
 I want to be able to create websites and programs. I love to learn new things and put them into practice.
 
 ## **Skills** 
@@ -16,3 +20,7 @@ I want to be able to create websites and programs. I love to learn new things an
 ## **Education**
 Belarusian State Academy of Communications: 
 - telecommunications technician
+
+## **Language knowledge**
+As showed the test  the beginer. 
+I read and translate with a dictionary)
