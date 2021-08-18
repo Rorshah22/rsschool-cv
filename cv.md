@@ -21,7 +21,7 @@
 
 ## **Experience**
 **JavaScript Web Application Development:**
-- To Do list: https://infallible-perlman-9fe79d.netlify.app 
+- To Do list: <https://infallible-perlman-9fe79d.netlify.app>
 
 **Developing web applications with React:**
 - Movie gallery:: https://peaceful-saha-4080a0.netlify.app/
