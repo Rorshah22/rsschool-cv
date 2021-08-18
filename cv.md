@@ -5,7 +5,7 @@
 
  - **Tel.:** +375-33-686-51-71
  - **email:** hulk145@gmail.com
- - **LinkedIn:** https://www.linkedin.com/in/siarhei-khalimon-73141a179/
+ - **LinkedIn:** <https://www.linkedin.com/in/siarhei-khalimon-73141a179/>
  - **Skype:** hulk145@gmail.com
 
 ### **About me** 
@@ -24,7 +24,7 @@
 - To Do list: <https://infallible-perlman-9fe79d.netlify.app>
 
 **Developing web applications with React:**
-- Movie gallery:: https://peaceful-saha-4080a0.netlify.app/
+- Movie gallery:: <https://peaceful-saha-4080a0.netlify.app/>
 
 
 ## **Education**
