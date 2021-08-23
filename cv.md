@@ -20,7 +20,7 @@
 - Git
 
 ## **Experience**
-**Landing page**
+**Landing page:**
 - https://cranky-cori-fcb5cb.netlify.app/
 
 **JavaScript Web Application Development:**
